@@ -1,0 +1,23 @@
+ID Compra: 1
+ID Usuario que brindo Atencion: 1
+Cliente: Cliente Eventual
+Dni Cliente: 1000000
+Fecha de compra: 16/06/2022
+Medio de pago utilizado: Tarjeta_Credito
+Descuento aplicado: 0%
+Precio Total de la Compra: $2.600,00
+<----Productos en carrito---->
+1) Logos. Id Producto: 2
+Nombre Producto: Logos
+Descripcion: Logos personalizados.
+Precio Base: $1.300,00
+Tamaño: Chico
+Detalles adicionales: -
+($1.300,00 x 1 unidades = $1.300,00)
+2) Logos. Id Producto: 2
+Nombre Producto: Logos
+Descripcion: Logos personalizados.
+Precio Base: $1.300,00
+Tamaño: Chico
+Detalles adicionales: -
+($1.300,00 x 1 unidades = $1.300,00)

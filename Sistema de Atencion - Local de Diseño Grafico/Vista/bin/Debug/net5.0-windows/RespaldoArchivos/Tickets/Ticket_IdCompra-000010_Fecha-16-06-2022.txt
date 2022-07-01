@@ -1,0 +1,23 @@
+ID Compra: 10
+ID Usuario que brindo Atencion: 5
+Cliente: Cliente Eventual
+Dni Cliente: 1000000
+Fecha de compra: 16/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $14,00
+<----Productos en carrito---->
+1) Hoja Oficio. Id Producto: 5
+Nombre Producto: Hoja Oficio
+Descripcion: Impresiones en hoja oficio.
+Precio Base: $07,00
+Color: NO
+Detalles adicionales: -
+($07,00 x 1 unidades = $07,00)
+2) Hoja Oficio. Id Producto: 5
+Nombre Producto: Hoja Oficio
+Descripcion: Impresiones en hoja oficio.
+Precio Base: $07,00
+Color: NO
+Detalles adicionales: -
+($07,00 x 1 unidades = $07,00)

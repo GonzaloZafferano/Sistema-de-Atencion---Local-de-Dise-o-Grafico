@@ -1,0 +1,16 @@
+ID Compra: 6
+ID Usuario que brindo Atencion: 3
+Cliente: Villar, Daiana
+Dni Cliente: 33259797
+Fecha de compra: 16/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $11.100,00
+<----Productos en carrito---->
+1) Cartel. Id Producto: 7
+Nombre Producto: Cartel
+Descripcion: Diseño de cartel personalizado.
+Precio Base: $11.100,00
+Tamaño: Grande
+Detalles adicionales: -
+($11.100,00 x 1 unidades = $11.100,00)

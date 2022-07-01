@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCambiarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConfirmarCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmJefe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmComprar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModificarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPantallaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReactivar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTicketsDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGestionClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGestionProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

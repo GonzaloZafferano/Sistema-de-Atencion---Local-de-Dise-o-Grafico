@@ -1,0 +1,23 @@
+ID Compra: 13
+ID Usuario que brindo Atencion: 1
+Cliente: Stregaro, Gonzalo
+Dni Cliente: 35498796
+Fecha de compra: 16/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $4.900,00
+<----Productos en carrito---->
+1) Logos. Id Producto: 2
+Nombre Producto: Logos
+Descripcion: Logos personalizados.
+Precio Base: $3.900,00
+Tamaño: Grande
+Detalles adicionales: Un diseño para un local de comida.
+($3.900,00 x 1 unidades = $3.900,00)
+2) Tarjetas. Id Producto: 3
+Nombre Producto: Tarjetas
+Descripcion: Tarjetas personalizadas.
+Precio Base: $10,00
+Color: NO
+Detalles adicionales: Tarjetas de presentacion.
+($10,00 x 100 unidades = $1.000,00)

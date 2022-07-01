@@ -1,0 +1,16 @@
+ID Compra: 14
+ID Usuario que brindo Atencion: 1
+Cliente: Martin, Juan
+Dni Cliente: 21659989
+Fecha de compra: 16/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $40,00
+<----Productos en carrito---->
+1) Tarjetas. Id Producto: 3
+Nombre Producto: Tarjetas
+Descripcion: Tarjetas personalizadas.
+Precio Base: $10,00
+Color: NO
+Detalles adicionales: -
+($10,00 x 4 unidades = $40,00)

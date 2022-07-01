@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Producto xsi:type="Impresion">
+    <IdProducto>1</IdProducto>
+    <NombreProducto>Folletos</NombreProducto>
+    <DescripcionProducto>Impresion de folletos.</DescripcionProducto>
+    <PrecioProducto>10</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Disenio">
+    <IdProducto>2</IdProducto>
+    <NombreProducto>Logos</NombreProducto>
+    <DescripcionProducto>Logos personalizados.</DescripcionProducto>
+    <PrecioProducto>1300</PrecioProducto>
+    <TamanioDisenio>Chico</TamanioDisenio>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>3</IdProducto>
+    <NombreProducto>Tarjetas</NombreProducto>
+    <DescripcionProducto>Tarjetas personalizadas.</DescripcionProducto>
+    <PrecioProducto>10</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>4</IdProducto>
+    <NombreProducto>Hola A4</NombreProducto>
+    <DescripcionProducto>Impresiones en Hoja A4.</DescripcionProducto>
+    <PrecioProducto>5</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>5</IdProducto>
+    <NombreProducto>Hoja Oficio</NombreProducto>
+    <DescripcionProducto>Impresiones en hoja oficio.</DescripcionProducto>
+    <PrecioProducto>7</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Disenio">
+    <IdProducto>6</IdProducto>
+    <NombreProducto>Banners</NombreProducto>
+    <DescripcionProducto>Diseño de banners personalizados.</DescripcionProducto>
+    <PrecioProducto>2500</PrecioProducto>
+    <TamanioDisenio>Chico</TamanioDisenio>
+  </Producto>
+  <Producto xsi:type="Disenio">
+    <IdProducto>7</IdProducto>
+    <NombreProducto>Cartel</NombreProducto>
+    <DescripcionProducto>Diseño de cartel personalizado.</DescripcionProducto>
+    <PrecioProducto>3700</PrecioProducto>
+    <TamanioDisenio>Chico</TamanioDisenio>
+  </Producto>
+</ArrayOfProducto>

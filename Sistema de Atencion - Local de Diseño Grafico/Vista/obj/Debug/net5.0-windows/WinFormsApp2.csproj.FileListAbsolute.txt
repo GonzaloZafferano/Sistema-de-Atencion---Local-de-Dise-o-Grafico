@@ -1,0 +1,113 @@
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAdministrador.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmCambioPassWord.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmUsuario.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaUsuario.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarUsuario.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaProducto.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarProducto.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmComprar.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmListaClientes.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaCliente.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmConfirmarCompra.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionClientes.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionProductos.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionUsuarios.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmLogin.resources
+C:\Users\GONZALO\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAdministrador.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmCambioPassWord.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmComprar.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmConfirmarCompra.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionProductos.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionUsuarios.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmListaClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmLogin.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmJefe.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaJefe.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAdministrador.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmAltaUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmComprar.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmConfirmarCompra.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionProductos.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmGestionUsuarios.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmJefe.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmListaClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmLogin.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmModificarUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.FrmTicketsDeCompra.resources

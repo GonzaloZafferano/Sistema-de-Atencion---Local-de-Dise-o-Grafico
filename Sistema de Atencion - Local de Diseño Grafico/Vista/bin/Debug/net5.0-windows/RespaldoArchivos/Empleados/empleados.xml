@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Empleado xsi:type="Jefe">
+    <Dni>12345678</Dni>
+    <Nombre>Fabian</Nombre>
+    <Apellido>Guetta</Apellido>
+    <Salario>55000</Salario>
+    <NombreUsuario>Fguetta</NombreUsuario>
+    <Id>1</Id>
+    <Puesto>Jefe</Puesto>
+    <Password>aaaa</Password>
+  </Empleado>
+  <Empleado xsi:type="Administrador">
+    <Dni>33214567</Dni>
+    <Nombre>Veronica</Nombre>
+    <Apellido>Gomez</Apellido>
+    <Salario>49000</Salario>
+    <NombreUsuario>Vero90</NombreUsuario>
+    <Id>2</Id>
+    <Puesto>Administrador</Puesto>
+    <Password>bbbb</Password>
+  </Empleado>
+  <Empleado>
+    <Dni>29789464</Dni>
+    <Nombre>Lucas</Nombre>
+    <Apellido>Ramos</Apellido>
+    <Salario>33000</Salario>
+    <NombreUsuario>Lramos</NombreUsuario>
+    <Id>3</Id>
+    <Puesto>Empleado</Puesto>
+    <Password>cccc</Password>
+  </Empleado>
+  <Empleado xsi:type="Administrador">
+    <Dni>35229019</Dni>
+    <Nombre>Melina</Nombre>
+    <Apellido>Villar</Apellido>
+    <Salario>49500</Salario>
+    <NombreUsuario>Melina92</NombreUsuario>
+    <Id>4</Id>
+    <Puesto>Administrador</Puesto>
+    <Password>dddd</Password>
+  </Empleado>
+  <Empleado>
+    <Dni>30654987</Dni>
+    <Nombre>Karen</Nombre>
+    <Apellido>Zalas</Apellido>
+    <Salario>33950</Salario>
+    <NombreUsuario>Karenz</NombreUsuario>
+    <Id>5</Id>
+    <Puesto>Empleado</Puesto>
+    <Password>eeee</Password>
+  </Empleado>
+  <Empleado>
+    <Dni>33215978</Dni>
+    <Nombre>Carolina</Nombre>
+    <Apellido>Guttierrez</Apellido>
+    <Salario>35500</Salario>
+    <NombreUsuario>Caro92</NombreUsuario>
+    <Id>6</Id>
+    <Puesto>Empleado</Puesto>
+    <Password>ffff</Password>
+  </Empleado>
+</ArrayOfEmpleado>

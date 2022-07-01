@@ -1,0 +1,30 @@
+ID Compra: 3
+ID Usuario que brindo Atencion: 2
+Cliente: Martin, Juan
+Dni Cliente: 21659989
+Fecha de compra: 16/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $1.315,00
+<----Productos en carrito---->
+1) Logos. Id Producto: 2
+Nombre Producto: Logos
+Descripcion: Logos personalizados.
+Precio Base: $1.300,00
+Tamaño: Chico
+Detalles adicionales: -
+($1.300,00 x 1 unidades = $1.300,00)
+2) Hola A4. Id Producto: 4
+Nombre Producto: Hola A4
+Descripcion: Impresiones en Hoja A4.
+Precio Base: $05,00
+Color: NO
+Detalles adicionales: -
+($05,00 x 1 unidades = $05,00)
+3) Folletos. Id Producto: 1
+Nombre Producto: Folletos
+Descripcion: Impresion de folletos.
+Precio Base: $10,00
+Color: NO
+Detalles adicionales: -
+($10,00 x 1 unidades = $10,00)
